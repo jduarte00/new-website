@@ -73,7 +73,7 @@ footer-text: Elaborado con fork de China World
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus: JoseD #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
